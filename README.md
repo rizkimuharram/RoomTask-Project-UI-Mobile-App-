@@ -1,2 +1,2 @@
 # RoomTask-Project-UI-Mobile-App-
-Tampilan UI pada Moblie App di aplikasi RoomTask
+Tampilan UI dan Prototype pada Moblie App di aplikasi RoomTask
